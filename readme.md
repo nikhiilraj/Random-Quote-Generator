@@ -92,8 +92,3 @@ quote-api/
 
 * LinkedIn: <https://www.linkedin.com/in/nikhil0raj/>
 * Email: <nikhil4rajj@gmail.com>
-
----
-
-if you want — I can now also generate a `.gitignore` for this repo (Node.js standard) so your node_modules stays out of GitHub.
-
